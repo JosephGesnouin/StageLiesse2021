@@ -2,6 +2,8 @@
 
 Ce répertoire contient les notebooks correspondant au stage LIESSE « Intelligence Artificielle » à Mines ParisTech des 4 et 5 mai 2021 adaptés à une utilisation google collab et couvre les sujets suivants : 
 
+
+* Visualisation des données: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JosephGesnouin/StageLiesse2021/blob/main/0_Donnees.ipynb]
 * Modèles linéaires : régression linéaire, régression logistique
 * Réseaux de neurones : perceptrons multi-couches pour la régression et la classification 
 * Méthodes des plus proches voisins
